@@ -2,10 +2,10 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at *[Company/AppName]*, how *[Company/AppName]* uses it, and what choices you have.
-*[Company/AppName]* built the *[AppName]* app as a free app. This SERVICE is provided by *[Company/AppName]* at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+Our privacy policy will help you understand what information we collect at Shukla Restaurant, how Shukla Restaurant uses it, and what choices you have.
+Shukla Restaurant built the *[AppName]* app as a free app. This SERVICE is provided by Shukla Restaurant at no cost and is intended for use as is.
+If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information we collect is used to provide and improve the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
@@ -43,4 +43,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: *[xxx@email.com]*  
+Email: shuklarestaurant1@gmail.com  
